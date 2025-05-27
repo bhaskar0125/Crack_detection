@@ -1,10 +1,5 @@
-# requirements.txt
-opencv-python
-numpy
-streamlit
-tensorflow==2.10.0
-keras==2.10.0
-matplotlib
-scikit-learn
-kaggle
-# Add more dependencies as needed for deep learning (e.g., tensorflow, torch)
+streamlit==1.35.0
+opencv-python==4.9.0.80
+numpy==1.24.4
+pillow==10.3.0
+tensorflow==2.14.0
